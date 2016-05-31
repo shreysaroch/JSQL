@@ -1,5 +1,5 @@
 # JSQL
 It's an alternative to a premium software (Navicat).
-Check the attached file for complete detail.
+Check out "guide.pdf" for complete documentation.
 Contribute to OpenSource.
 Happy Hacking ;)
